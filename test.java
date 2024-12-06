@@ -1,4 +1,4 @@
-DSA TEST PROGRAM
+
 
 import java.util.Scanner;
 
@@ -9,9 +9,8 @@ class test {
     System.out.println("Enter name, age and salary:");
 
     String name = myObj.nextLine();
-    // 
-       TYPE YOUR CODE HERE
-      //
+    int salary=25000;
+    int age=20;
     System.out.println("Name: " + name);
     System.out.println("Age: " + age);
     System.out.println("Salary: " + salary);
